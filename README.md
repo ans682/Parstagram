@@ -21,7 +21,19 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of sign up feature:
 
-![demo gif](images/insta_demo.gif)
+![demo gif](images/sign_up_demo.gif)
+
+New user was added to the database. See the first row with "Jack" username:
+
+![db_screenshot](images/db_screenshot.png)
+
+Here's a walkthrough of creating a post with photograph:
+
+![demo gif](images/photo_post_demo.gif)
+
+Here's a walkthrough of viewing a newly created post:
+
+![demo gif](images/view_post_demo.gif)
 
