@@ -9,6 +9,7 @@ target 'Parstagram' do
   pod 'Parse'
   pod 'Alamofire'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   target 'ParstagramTests' do
     inherit! :search_paths
@@ -16,6 +17,7 @@ target 'Parstagram' do
     pod 'Parse'
     pod 'Alamofire'
     pod 'AlamofireImage'
+    pod 'MessageInputBar'
   end
 
   target 'ParstagramUITests' do
@@ -23,6 +25,7 @@ target 'Parstagram' do
     pod 'Parse'
     pod 'Alamofire'
     pod 'AlamofireImage'
+    pod 'MessageInputBar'
   end
 
 end
